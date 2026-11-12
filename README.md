@@ -1,6 +1,6 @@
 # Market Risk Engine: VaR / ES Models, Back-testing and Model Comparison
 
-[![CI](https://github.com/OWNER/market-risk-var/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/market-risk-var/actions/workflows/ci.yml)
+[![CI](https://github.com/fatimazahraakhihil/market-risk-var/actions/workflows/ci.yml/badge.svg)](https://github.com/fatimazahraakhihil/market-risk-var/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -57,7 +57,7 @@ Methods and references: [docs/methodology.md](docs/methodology.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/OWNER/market-risk-var.git
+git clone https://github.com/fatimazahraakhihil/market-risk-var.git
 cd market-risk-var
 make install     # .venv + package with data and dev extras
 make test        # 26 tests, no network needed
